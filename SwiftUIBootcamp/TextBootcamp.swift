@@ -34,7 +34,7 @@ struct TextBootcamp: View {
         /// Интервал между буквами
         //            .kerning(10)
         /// Многострочное выравнивание текста (по умолчанию по центру)
-//            .multilineTextAlignment(.trailing)
+        //            .multilineTextAlignment(.trailing)
         /// Цвет шрифта
             .foregroundStyle(Color.red)
         /// Добавление рамки
