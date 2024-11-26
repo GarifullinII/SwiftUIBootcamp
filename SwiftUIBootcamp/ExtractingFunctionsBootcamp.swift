@@ -23,7 +23,7 @@ struct ExtractingFunctionsBootcamp: View {
     }
     
     var contentLayer: some View {
-        let extractedExpr = VStack {
+        VStack {
             Text("Title")
                 .font(.largeTitle)
             
@@ -38,7 +38,6 @@ struct ExtractingFunctionsBootcamp: View {
                     .clipShape(.rect(cornerRadius: 10))
             }
         }
-        extractedExpr
     }
     
     func buttonPressed() {
