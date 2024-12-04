@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6E6CFCAF2CEF277A002EE92B /* SwiftUIBootcamp */ = {
+		6E709E5E2D0036F0001BB8E9 /* SwiftUIBootcamp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = SwiftUIBootcamp;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		6E6CFCA42CEF277A002EE92B = {
 			isa = PBXGroup;
 			children = (
-				6E6CFCAF2CEF277A002EE92B /* SwiftUIBootcamp */,
+				6E709E5E2D0036F0001BB8E9 /* SwiftUIBootcamp */,
 				6E6CFCAE2CEF277A002EE92B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6E6CFCAF2CEF277A002EE92B /* SwiftUIBootcamp */,
+				6E709E5E2D0036F0001BB8E9 /* SwiftUIBootcamp */,
 			);
 			name = SwiftUIBootcamp;
 			packageProductDependencies = (
